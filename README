@@ -1,7 +1,7 @@
-Mina frågor som dykt upp är: 
-HUR gör jag en console clear? 
-Head & Body, vad är det och när slutar man skriva i samma body? 
-h1,h2,h3 och so on? Vilka referens-kategorier finns och hur hänvisar man till dem? 
-<p är radbyte, vad finns det mer?  
-Kan jag använda README och numreringen som en lista såhär?
-Hur använder man sig av indrag för att skriva prydlig, läsbar kod?
+# Mina frågor som dykt upp är: 
+## HUR gör jag en console clear? 
+### Head & Body, vad är det och när slutar man skriva i samma body? head visar intern info som ej visas. body visar det som ska synas. 
+#### h1,h2,h3 och so on? Vilka referens-kategorier finns och hur hänvisar man till dem? Med taggar refererar vi till olika saker och de har med olika rubriker och heading att göra. 
+##### <p är radbyte, vad finns det mer?  
+###### Kan jag använda README och numreringen som en lista såhär? Jag kan använda mig av hashtags. 
+###### Hur använder man sig av indrag för att skriva prydlig, läsbar kod?
